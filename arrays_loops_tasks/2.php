@@ -7,8 +7,8 @@ $numeral = [
     24,
     35,
 ];
-$sum = 0;
+$result = 0;
 foreach ($numeral as $elem){
-    $sum = $sum + $elem;
+    $result = $result + $elem;
 }
-echo $sum;
+echo $result;
