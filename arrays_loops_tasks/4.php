@@ -14,3 +14,5 @@ echo "Столбец элементов". PHP_EOL;
 foreach ($arr as $value) {
     echo $value. PHP_EOL;
 }
+$arr = "test";
+echo ($arr);
